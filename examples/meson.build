@@ -1,0 +1,1 @@
+subdir('bind_glade_example')
